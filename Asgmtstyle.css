@@ -1,0 +1,40 @@
+*{
+   box-sizing: border-box;
+}
+body{
+margin: 0;
+padding: 0;
+}
+
+.image-gp{
+    width: 50%;
+    height: 30%;
+    padding: 3px;
+    float: left;
+}
+
+.image-gp1{
+    width: 506px;
+    height: 30%;
+    padding: 3px;
+    float: left;
+    
+}
+.container1{
+    width: 100%;
+    height: 428px;
+}
+
+.container2{
+    width: 100%;
+    height: 380px;
+}
+.short-gp{
+    width: 25%;
+    height: 41%;
+    float: left;
+    padding: 5px;
+}
+ul li{
+    font-weight: bold;
+}
